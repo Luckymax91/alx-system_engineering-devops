@@ -1,3 +1,3 @@
 #!/bin/bash
-tall -n 10 /etc/passwd
+tall -10 /etc/passwd
 
